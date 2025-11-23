@@ -26,5 +26,5 @@ The spatial analysis reveals that crime incidents are not uniformly distributed 
 ### 📂 Repository Contents
 * **0 data science project-geo.ipynb**: The geospatial analysis notebook containing coordinate mapping logic.
 * **Data Science Project.ipynb**: Data cleaning and preprocessing scripts.
-* **Project-Report_final.pdf**: Full project findings and executive summary.
+* **Project-Report_final.pdf**: Full project findings and summary.
 * **wibr.csv**: The dataset used for analysis.
